@@ -8,7 +8,7 @@ This lab was solved in collaboration with [Giuseppe Nicola Natalizio](https://gi
 ## Peer Reviews on Lab 2
 
 ### Done
-_None yet_
+- [Rita Mendes](https://github.com/class1c-j/polito-ci-labs/issues/2)
 
 ### Received
 
