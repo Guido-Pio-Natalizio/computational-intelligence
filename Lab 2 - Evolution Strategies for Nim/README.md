@@ -8,9 +8,8 @@ This lab was solved in collaboration with [Giuseppe Nicola Natalizio](https://gi
 ## Peer Reviews on Lab 2
 
 ### Done
-_None yet_
-
+- [Rita Mendes](https://github.com/class1c-j/polito-ci-labs/issues/2)
+- [Arturo Adelfio](https://github.com/arturoadelfio/computational_intelligence/issues/2)
 ### Received
 
-_None yet_
-
+- [Samuele Vanini](https://github.com/Guido-Pio-Natalizio/computational-intelligence/issues/1)
