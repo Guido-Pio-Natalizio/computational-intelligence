@@ -12,5 +12,5 @@ _None yet_
 ### Received
 _None yet_
 
-### References
+## References
 [Russel, Norvig, Artificial Intelligence: A Modern Approach](https://www.google.it/books/edition/Artificial_Intelligence_A_Modern_Approac/cb0qEAAAQBAJ?hl=it) for the definitions of First Choice Hill Climbing and Simulated Annealing
