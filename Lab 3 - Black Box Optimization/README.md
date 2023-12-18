@@ -5,12 +5,13 @@ The code is contained in the `lab9.ipynb` notebook.
 
 This lab was solved in collaboration with [Giuseppe Nicola Natalizio](https://github.com/GNNatan/compint)
 
-## Peer Reviews on Lab 2
+## Peer Reviews on Lab 3
 
 ### Done
-_None yet_
+[Gabriele Quaranta](https://github.com/gabriquaranta/computational-intelligence/issues/3)  
+[Nicholas Berardo](https://github.com/Niiikkkk/Computational-Intelligence/issues/3)
 ### Received
-_None yet_
+[Salvatore Tilocca](https://github.com/Guido-Pio-Natalizio/computational-intelligence/issues/2)
 
-### References
+## References
 [Russel, Norvig, Artificial Intelligence: A Modern Approach](https://www.google.it/books/edition/Artificial_Intelligence_A_Modern_Approac/cb0qEAAAQBAJ?hl=it) for the definitions of First Choice Hill Climbing and Simulated Annealing
