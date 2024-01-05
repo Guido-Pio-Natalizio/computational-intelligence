@@ -8,9 +8,10 @@ This lab was solved in collaboration with [Giuseppe Nicola Natalizio](https://gi
 ## Peer Reviews on Lab 4
 
 ### Done
-_None yet_
+[Giacomo Fantino](https://github.com/giacomofantino/computational-intelligence/issues/6)  
+[Alexandre Senouci](https://github.com/Kinepo/CI-Polito/issues/3)
 ### Received
-_None yet_
+[Federica Lupoli](https://github.com/Guido-Pio-Natalizio/computational-intelligence/issues/3)
 
 ## References
 [Russel, Norvig, Artificial Intelligence: A Modern Approach](https://www.google.it/books/edition/Artificial_Intelligence_A_Modern_Approac/cb0qEAAAQBAJ?hl=it) for the definition and implementation of value and policy iteration.  
